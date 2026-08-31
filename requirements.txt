@@ -1,7 +1,7 @@
 -e .
 black==26.5.1
 coverage==7.15.2
-django-ipware>=3
+django-ipware>=7.0.1
 mypy==1.19.1
 prospector==1.19.1
 pytest-cov==7.1.0
